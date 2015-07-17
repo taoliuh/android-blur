@@ -1,0 +1,48 @@
+<<<<<<< HEAD
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/.idea
+.DS_Store
+/build
+*.iml
+/spoon-output
+=======
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+build/*
+StackBlur/build/*
+StackBlurDemo/build/*
+StackBlur/obj/local/**/*
+
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Eclipse project files
+.classpath
+.project
+
+#gradle files
+.gradle/*
+
+#android studio files
+.idea/**/*
+android-stackblur.iml
+StackBlurDemo.iml
+StackBlur.iml
+
+
+>>>>>>> 5e8226335587d93605b35ac4c3d7fc7ce6b4316f
